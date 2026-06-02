@@ -15,7 +15,7 @@
 
       /* ── HERO ── */
       'hero.badge': 'Parceiro Oficial Acronis · XDR',
-      'hero.title': 'Visão 360°, IA que age e <span class="text-red">recuperação instantânea</span>',
+      'hero.title': 'Proteção Cibernética Completa. <span class="text-red">Simples. Inteligente.</span>',
       'hero.sub': 'Proteja endpoints, e-mail, identidade e nuvem em uma plataforma unificada — com resposta em 1 clique e backup integrado contra ransomware.',
       'hero.stat1.lbl': 'das empresas foram alvo de ciberataques',
       'hero.stat2.lbl': 'para conter uma ameaça',
@@ -265,7 +265,7 @@
       'bc.seg': 'Security',
       'bc.xdr': 'XDR',
       'hero.badge': 'Official Acronis Partner · XDR',
-      'hero.title': '360° Visibility, AI that acts and <span class="text-red">instant recovery</span>',
+      'hero.title': 'Complete Cyber Protection. <span class="text-red">Simple. Intelligent.</span>',
       'hero.sub': 'Protect endpoints, email, identity and cloud in a unified platform — with 1-click response and integrated backup against ransomware.',
       'hero.stat1.lbl': 'of companies were targeted by cyberattacks',
       'hero.stat2.lbl': 'to contain a threat',
@@ -479,7 +479,7 @@
       'bc.seg': 'Seguridad',
       'bc.xdr': 'XDR',
       'hero.badge': 'Socio Oficial Acronis · XDR',
-      'hero.title': 'Visibilidad 360°, IA que actúa y <span class="text-red">recuperación instantánea</span>',
+      'hero.title': 'Protección Cibernética Completa. <span class="text-red">Simple. Inteligente.</span>',
       'hero.sub': 'Proteja endpoints, correo electrónico, identidad y nube en una plataforma unificada — con respuesta en 1 clic y backup integrado contra ransomware.',
       'hero.stat1.lbl': 'de las empresas fueron blanco de ciberataques',
       'hero.stat2.lbl': 'para contener una amenaza',
